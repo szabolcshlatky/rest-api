@@ -16,7 +16,7 @@ dist-ssr
 /out/
 
 # production
-# /src/index.ts
+/src/index.ts
 
 # misc
 .DS_Store
@@ -52,3 +52,4 @@ next-env.d.ts
 *.njsproj
 *.sln
 *.sw?
+src/index.ts
